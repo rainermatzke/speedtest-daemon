@@ -1,0 +1,21 @@
+timestamp,protocol,download,upload,ping
+2023-05-15 21:55:59+02:00,url='http://speed2.init7.net:8080/speedtest/upload.php',357397470.44650775,15844010.042861188,22.345
+2023-05-15 21:56:35+02:00,url='http://speedtest-ooklaserver.zekjur.net:8080/speedtest/upload.php',360732432.60137504,15233431.060768675,23.236
+2023-05-15 21:57:18+02:00,url='http://strasbourg3.speedtest.orange.fr:8080/speedtest/upload.php',282138726.08816844,18063103.496980507,22.725
+2023-05-15 22:07:34+02:00,url='http://speed2.init7.net:8080/speedtest/upload.php',347584655.1003989,12265874.954605335,23.815
+2023-05-15 22:08:00+02:00,url='http://speedtest-ooklaserver.zekjur.net:8080/speedtest/upload.php',366125274.15308464,13607970.234229233,24.191
+2023-05-15 22:08:53+02:00,url='http://strasbourg3.speedtest.orange.fr:8080/speedtest/upload.php',252491930.19624117,17621999.51844975,22.607
+2023-05-15 23:09:00+02:00,url='http://strasbourg3.speedtest.orange.fr:8080/speedtest/upload.php',326746925.3113702,16891445.09766867,31.155
+2023-05-16 00:09:00+02:00,url='http://speedtest3.dacor.de:8080/speedtest/upload.php',378765262.50172085,16717755.75159275,28.583
+2023-05-16 01:09:00+02:00,url='http://fra.speedtest.clouvider.net:8080/speedtest/upload.php',376685260.4364067,17698336.13561786,25.445
+2023-05-16 02:09:00+02:00,url='http://fra.speedtest.clouvider.net:8080/speedtest/upload.php',384894845.9248893,17879252.007678773,16.747
+2023-05-16 03:09:00+02:00,url='http://speedtest.pfalzkom.de:8080/speedtest/upload.php',325294668.17816293,17165655.018896546,25.632
+2023-05-16 04:09:00+02:00,url='http://speedtest.pfalzkom.de:8080/speedtest/upload.php',300735820.48498684,17045104.24227913,21.918
+2023-05-16 05:09:00+02:00,url='http://sp1.mbn-glasfaser.de:8080/speedtest/upload.php',255516246.15791687,19377750.52302464,22.22
+2023-05-16 06:09:00+02:00,url='http://speedtest1.mk.de:8080/speedtest/upload.php',340356847.05401546,20190229.527217187,21.321
+2023-05-17 13:48:18+02:00,url='http://voiptest.starface.de:8080/speedtest/upload.php',269376497.7479523,18912861.504141618,28.113
+2023-05-17 13:55:09+02:00,url='http://speedtest.fairfast.de:8080/speedtest/upload.php',247812104.89189884,16081429.599254046,23.417
+2023-05-17 13:56:09+02:00,url='http://voiptest.starface.de:8080/speedtest/upload.php',308504217.5533639,19733408.650408078,21.777
+2023-05-17 13:59:32+02:00,url='http://speedtest1.rox.net:8080/speedtest/upload.php',287836717.7190388,19172454.23176988,24.23
+2023-05-17 14:00:32+02:00,url='http://speedtest1.rox.net:8080/speedtest/upload.php',226607024.7810937,19583717.276505046,27.272
+2023-05-17 14:03:45+02:00,url='http://voiptest.starface.de:8080/speedtest/upload.php',292753367.1818106,16570108.075273698,23.86
